@@ -1,5 +1,5 @@
-import { Product } from "/Product.js";
-import { UI } from "/UI.js";
+import { Product } from "Product.js";
+import { UI } from "UI.js";
 
 // DOM Events
 document
